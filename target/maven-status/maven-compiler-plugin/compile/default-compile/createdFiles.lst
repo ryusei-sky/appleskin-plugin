@@ -1,0 +1,4 @@
+jp/havenmc/appleskinplugin/service/ChannelService.class
+jp/havenmc/appleskinplugin/Main.class
+jp/havenmc/appleskinplugin/task/SyncTask.class
+jp/havenmc/appleskinplugin/listener/PlayerJoinListener.class

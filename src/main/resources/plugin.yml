@@ -1,0 +1,6 @@
+name: AppleSkinPlugin
+version: 1.0.0
+main: jp.havenmc.appleskinplugin.Main
+api-version: '1.21'
+author: ryusei_sky
+folia-supported: true
